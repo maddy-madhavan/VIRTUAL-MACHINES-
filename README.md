@@ -1,6 +1,6 @@
 ## EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-## Name : JAWAHAR RAJ N
-## Reg No : 212223240057
+## Name : MADHAVAN K
+## Reg No : 212224220054
 ## Aim:
 To move the files between virtual machine.
 
